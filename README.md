@@ -20,10 +20,10 @@ Current build status
 
 Current release info
 ====================
-[![Conda Recipe](https://img.shields.io/badge/recipe-r--fts-green.svg)](https://anaconda.org/conda-forge/r-fts)
-[![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/r-fts.svg)](https://anaconda.org/conda-forge/r-fts)
-[![Conda Version](https://img.shields.io/conda/vn/conda-forge/r-fts.svg)](https://anaconda.org/conda-forge/r-fts)
-[![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/r-fts.svg)](https://anaconda.org/conda-forge/r-fts)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-r--fts-green.svg)](https://anaconda.org/conda-forge/r-fts) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/r-fts.svg)](https://anaconda.org/conda-forge/r-fts) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/r-fts.svg)](https://anaconda.org/conda-forge/r-fts) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/r-fts.svg)](https://anaconda.org/conda-forge/r-fts) |
 
 Installing r-fts
 ================
