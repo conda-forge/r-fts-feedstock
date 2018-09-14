@@ -1,4 +1,4 @@
-{% set version = "0.9.9.1" %}
+{% set version = "0.9.9.2" %}
 
 {% set posix = 'm2-' if win else '' %}
 {% set native = 'm2w64-' if win else '' %}
@@ -12,11 +12,11 @@ source:
   url:
     - https://cran.r-project.org/src/contrib/fts_{{ version }}.tar.gz
     - https://cran.r-project.org/src/contrib/Archive/fts/fts_{{ version }}.tar.gz
-  sha256: 981fb8f8f3bbc63edd4bed7be34bbf541182b0cae3c3fd088dbb7627f4ce4374
+  sha256: f894988ab793508c56976cd845646baa62a43aa2b94c6d491b27ac964284fc22
 
 build:
   merge_build_host: True  # [win]
-  number: 1
+  number: 0
   skip: true  # [win32]
 
   rpaths:
