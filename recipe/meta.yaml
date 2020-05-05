@@ -47,7 +47,7 @@ test:
 
 about:
   home: https://CRAN.R-project.org/package=fts
-  license: GPL-3
+  license: GPL-3.0-only
   license_family: GPL3
   license_file: '{{ environ["PREFIX"] }}/lib/R/share/licenses/GPL-3'
   summary: fast operations for time series objects
